@@ -7,7 +7,6 @@ College:Lumbini Engineering college
 
 # Additional
 What are you most interested about this event?
-What are you most interested about this event?
 ![Status: Participant](https://img.shields.io/badge/Status-Participant-000000?style=for-the-badge&logo=github)
 ![Location: Lumbini](https://img.shields.io/badge/Location-Lumbini-28a745?style=for-the-badge&logo=googlemaps)
 ## 🚀 Beyond the Syntax: My Vision for Lumbini Tech Month
