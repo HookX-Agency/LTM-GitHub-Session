@@ -1,9 +1,9 @@
 # General Info
 
-Name:Rishav Pandey
-Semester:3rd
-Faculty:B.Sc. CSIT
-College:Butwal Multiple Campus
+Name: Rishav Pandey
+Semester: 3rd
+Faculty: B.Sc. CSIT
+College: Butwal Multiple Campus
 
 # Additional
 
