@@ -2,9 +2,9 @@
 
 Name:Riya Pokharel
 Semester:3rd
-Faculty: bsc.csit
-College:Butwal multiple campus
+Faculty: Bsc.csit
+College:Butwal Multiple Campus
 
 # Additional
 What are you most interested about this event?
-to get to know about the actions of git
+Ans: To understand the concept of collaboration in github ,particularly to know how team works on same project using branches and pull requests and how everyone's changes can be reviewed and merged so smoothly.
