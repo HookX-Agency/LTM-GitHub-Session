@@ -8,3 +8,4 @@ College:Lumbini City College
 # Additional
 What are you most interested about this event?
 IT
+CS
